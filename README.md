@@ -1,2 +1,5 @@
-# brew-m1
-Patched M1 formula for Apple M1
+# Apple M1 formula
+
+### LLVM@9
+
+Patched LLVM@9 formula. It is required to build Python numba and llvmlite.
